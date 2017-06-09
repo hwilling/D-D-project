@@ -48,7 +48,7 @@ public class character {
 	private int intm;
 	private int bluf;
 	private int dipl;
-	//inventory
+	//TODO create inventory object
 	private String[] inventory;
 	//HP
 	private int hpMax;
@@ -58,7 +58,7 @@ public class character {
 	private int surges;
 	private int surgesPday;
 	private int surgeVal;
-	//powers/feats
+	//TODO create objects for powers/feats
 	private String[] feats;
 	private String[] atWill;
 	private String[] encounter;

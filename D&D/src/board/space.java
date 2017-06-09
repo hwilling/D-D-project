@@ -37,8 +37,8 @@ public class space {
 		charsInSpace.remove(charNum);
 	}
 	
-	//get and set items in current space
+	//TODO get and set items in current space
 	
 	
-	//get and set terrain objects in current space
+	//TODO get and set terrain objects in current space
 }
