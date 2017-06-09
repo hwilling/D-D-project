@@ -5,6 +5,7 @@ import Languages.language;
 
 public class character {
 	//character values
+	//comment
 	private String name;
 	private String playerName;
 	private String chClass;
