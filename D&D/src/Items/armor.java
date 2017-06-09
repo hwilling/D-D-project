@@ -64,7 +64,7 @@ public class armor {
 	public void setValue(int value){
 		this.value = value;
 	}
-	//type of armor(light, heavy, etc.)
+	//type of armor(light, heavy, etc.) 
 	public String getType(){
 		return type;
 	}
