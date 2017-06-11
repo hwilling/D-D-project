@@ -17,6 +17,9 @@ public class character {
 	private int level;
 	ArrayList<language> languages = new ArrayList<language>();
 	private String background;
+	private int size;
+	private String eDest;
+	private String pPath;
 	//attributes
 	private int str;
 	private int strMod;
