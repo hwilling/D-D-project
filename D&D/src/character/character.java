@@ -40,17 +40,22 @@ public class character {
 	private int will;
 	//skills
 	private int acro;
-	private int athl;
-	private int heal;
-	private int dung;
-	private int natr;
-	private int relg;
-	private int stlh;
-	private int lkpk;
 	private int acra;
-	private int intm;
+	private int athl;
 	private int bluf;
 	private int dipl;
+	private int dung;
+	private int endr;
+	private int heal;
+	private int hist;
+	private int insi;
+	private int intm;
+	private int natr;
+	private int perc;
+	private int relg;
+	private int stlh;
+	private int strt;
+	private int thie;
 	//TODO create inventory object
 	private String[] inventory;
 	//HP
